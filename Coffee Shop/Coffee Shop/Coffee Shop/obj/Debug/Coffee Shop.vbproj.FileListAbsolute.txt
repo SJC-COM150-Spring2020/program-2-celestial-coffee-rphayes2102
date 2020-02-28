@@ -1,0 +1,11 @@
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\rhayes\Projects\Coffee Shop\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.exe.config
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\rhayes\Projects\Coffee Shop\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.exe
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\rhayes\Projects\Coffee Shop\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.pdb
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\rhayes\Projects\Coffee Shop\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.xml
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\rhayes\Projects\Coffee Shop\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.vbprojResolveAssemblyReference.cache
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\rhayes\Projects\Coffee Shop\Coffee Shop\Coffee Shop\obj\Debug\Coffee_Shop.Form1.resources
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\rhayes\Projects\Coffee Shop\Coffee Shop\Coffee Shop\obj\Debug\Coffee_Shop.Resources.resources
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\rhayes\Projects\Coffee Shop\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.vbproj.GenerateResource.Cache
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\rhayes\Projects\Coffee Shop\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.exe
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\rhayes\Projects\Coffee Shop\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.xml
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\rhayes\Projects\Coffee Shop\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.pdb
